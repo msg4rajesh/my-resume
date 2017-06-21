@@ -34,9 +34,11 @@ Nationality: Brazilian and Spanish.<BR>
 
 ### Honors & Awards
 
-**Matrícula de Honor** - Complutense Univeristy of Madrid - 2016
+- **Matrícula de Honor** - Complutense Univeristy of Madrid - 2016
 
 ### Talks
 
 - FISL, Campus Party, etc
 
+## Full Linkedin CV
+https://github.com/caiomsouza/my-resume/blob/master/CaioMorenodeSouzaLinkedInCV.pdf
