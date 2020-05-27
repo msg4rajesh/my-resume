@@ -33,7 +33,8 @@ ICAAI (International Conference on Automation and Artificial Intelligence) May 2
 [Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/ICAAI_vFinal_CM_16052020.pdf)<BR>
 
 <b>Application of Big Data Science techniques for crisis management.</b>
-[Master Thesis link](hhttps://eprints.ucm.es/40606/)<BR>
+Complutense University of Madrid<BR>
+[Master Thesis link](https://eprints.ucm.es/40606/)<BR>
 
 
 ### Industry - Hitachi Vantara / Pentaho
