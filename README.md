@@ -21,16 +21,19 @@ Fluent in English, Spanish and Portuguese.
 Nationality: Brazilian and Spanish.<BR>
 
 ## Publications
-See all my Publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
+See all my publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
 
 ### Academia - Complutense University of Madrid (UCM)
 <b>Data and Artificial Intelligence Strategy: A Conceptual Enterprise Big Data Cloud Architecture to Enable Market-Oriented Organisations</b><BR>
 [Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR>
 
 <b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
-ICAAI (International Conference on Automation and Artificial Intelligence) May 21-22, 2020 - London, United Kingdom.
+ICAAI (International Conference on Automation and Artificial Intelligence) May 21-22, 2020 - London, United Kingdom.<BR>
 [Event Link](https://artificialintelligence.annualcongress.com/renowned-speakers.php)<BR>
 [Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/ICAAI_vFinal_CM_16052020.pdf)<BR>
+
+<b>Application of Big Data Science techniques for crisis management.</b>
+[Master Thesis link](hhttps://eprints.ucm.es/40606/)<BR>
 
 
 ### Industry - Hitachi Vantara / Pentaho
