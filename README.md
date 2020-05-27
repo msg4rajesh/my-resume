@@ -29,7 +29,7 @@ See all my Publications at [Google Scholar](https://scholar.google.co.uk/citatio
 
 <b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
 ICAAI (International Conference on Automation and Artificial Intelligence) May 21-22, 2020 - London, United Kingdom.
-[Event Link](https://artificialintelligence.annualcongress.com/renowned-speakers.php)
+[Event Link](https://artificialintelligence.annualcongress.com/renowned-speakers.php)<BR>
 [Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/ICAAI_vFinal_CM_16052020.pdf)<BR>
 
 
