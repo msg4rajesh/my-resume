@@ -22,14 +22,14 @@ Nationality: Brazilian and Spanish.<BR>
 ## Publications
 See all my Publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
 
-### Complutense University of Madrid (UCM)
+### Academia - Complutense University of Madrid (UCM)
 <b>Data and Artificial Intelligence Strategy: A Conceptual Enterprise Big Data Cloud Architecture to Enable Market-Oriented Organisations</b><BR>
 [Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR>
 
 <b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
-[Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/ICAAI_vFinal_CM_16052020.pdf)<BR>
+[Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/ICAAI_vFinal_CM_16052020.pdf)<BR>
 
-### Hitachi Vantara / Pentaho
+### Industry - Hitachi Vantara / Pentaho
 <b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
 AutoML can automate a large part of the ML workflow, like training and tuning many models in a specified time. See how AutoML open-source tools and Pentaho together can help customers save time when they create a model and deploy it into production.<BR>
 
