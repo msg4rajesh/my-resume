@@ -1,15 +1,9 @@
 ## Caio Moreno
-
 **Location:** London, UK
-
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es
-
 **Blogs:** 
-[https://medium.com/@caiomsouza](https://medium.com/@caiomsouza)
-[http://professorcoruja.com/](http://professorcoruja.com/)
-
+[https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/)
 **GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza)
-
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/)
 
 ### About me
