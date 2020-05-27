@@ -34,11 +34,11 @@ ICAAI (International Conference on Automation and Artificial Intelligence) May 2
 
 
 ### Industry - Hitachi Vantara / Pentaho
-<b>Automated Machine Learning (AutoML) and Pentaho </b>
+<b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
 Video: [Link](https://www.hitachivantara.com/en-us/video/automated-machine-learning-pentaho.html)<BR>
 PDF: [Link](https://www.hitachivantara.com/en-us/pdf/presentation/automated-machine-learning-pentaho-presentation.pdf)<BR>
 
-<b>Hands-on Training: Tackling Data Science Challenges with PDI </b>
+<b>Hands-on Training: Tackling Data Science Challenges with PDI </b><BR>
 Video: [Link](https://www.hitachivantara.com/en-us/video/hands-on-training-tackling-data-science-challenges-with-pdi-pentahoworld.html)<BR>
 PDF: [Link](https://www.hitachivantara.com/en-us/pdf/training/tackling-data-science-challenges-with-pdi.pdf)<BR>
 
