@@ -7,6 +7,7 @@
 **Work at** Microsoft, London, UK <BR><BR>
 
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
+**Google Scholar:** [My Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) <BR>
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
 **Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
 **Blogs:** [https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/) <BR>
