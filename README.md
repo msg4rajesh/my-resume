@@ -14,7 +14,27 @@ Fluent in English, Spanish and Portuguese.
 Nationality: Brazilian and Spanish.<BR>
 
 ### Publications
-[My Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
+[See all my Publications at Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
+
+Automated Machine Learning (AutoML) and Pentaho <BR>
+Video: https://www.hitachivantara.com/en-us/video/automated-machine-learning-pentaho.html <BR>
+PDF: https://www.hitachivantara.com/en-us/pdf/presentation/automated-machine-learning-pentaho-presentation.pdf<BR>
+
+Hands-on Training: Tackling Data Science Challenges with PDI <BR>
+Discover how Pentaho streamlines the process of training, tuning, building and testing predictive models. Learn how to use Pentaho Data Integration to prepare data, engineer features, test models and deploy and operationalize your model.<BR><BR>
+
+Video: https://www.hitachivantara.com/en-us/video/hands-on-training-tackling-data-science-challenges-with-pdi-pentahoworld.html<BR>
+PDF: https://www.hitachivantara.com/en-us/pdf/training/tackling-data-science-challenges-with-pdi.pdf<BR><BR>
+
+Network Rail: Predicting the Result of Incidents with Big Data and Data Science<BR>
+Network Rail owns and operates the entire rail infrastructure in the UK; their challenge is to keep all the trains running on time and to maximize the services provided by the rail providers that run on its infrastructure.<BR>
+Video: https://www.hitachivantara.com/en-us/video/network-rail-predicting-result-of-incidents-with-big-data-data-science-pentahoworld.html<BR>
+PDF: https://www.hitachivantara.com/en-us/pdf/presentation/predicting-result-of-incidents-with-big-data-data-science-presentation.pdf<BR>
+
+All my Hitachi Vantara / Pentaho publications can be found at: https://www.hitachivantara.com/en-us/news-resources/resources.html
+
+
+
 
 ### Honors & Awards
 - **Best Student / Matrícula de Honor** - Complutense Univeristy of Madrid - 2016
