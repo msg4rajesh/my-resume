@@ -1,10 +1,10 @@
 ## Caio Moreno
-**Location:** London, UK
-**E-mail:** caiomsouza@gmail.com or caiofern@ucm.es
-**Blogs:** 
+**Location:** London, UK <BR>
+**E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
+**Blogs:** <BR> 
 [https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/)
-**GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza)
-**LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/)
+**GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza) <BR>
+**LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
 
 ### About me
 Father, husband, Senior Cloud Solution Architect, data scientist, consultant, professor, author, AI/ML and Big Data expert. 
