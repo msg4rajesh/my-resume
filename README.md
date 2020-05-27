@@ -8,13 +8,13 @@
 **Slideshare:** [https://www.slideshare.net/caiomsouza/presentations](https://www.slideshare.net/caiomsouza/presentations) <BR>
 
 
-### About me
+## About me
 Father, husband, Senior Cloud Solution Architect, data scientist, consultant, professor, author, AI/ML and Big Data expert. 
 Fluent in English, Spanish and Portuguese. 
 Nationality: Brazilian and Spanish.<BR>
 
-### Publications
-[See all my Publications at Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
+## Publications
+See all my Publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
 
 <b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
 AutoML can automate a large part of the ML workflow, like training and tuning many models in a specified time. See how AutoML open-source tools and Pentaho together can help customers save time when they create a model and deploy it into production.<BR>
@@ -36,8 +36,8 @@ PDF: https://www.hitachivantara.com/en-us/pdf/presentation/predicting-result-of-
 All my Hitachi Vantara / Pentaho publications can be found at: https://www.hitachivantara.com/en-us/news-resources/resources.html
 
 
-### Honors & Awards
+## Honors & Awards
 - **Best Student / Matrícula de Honor** - Complutense Univeristy of Madrid - 2016
 
-### Talks
+## Talks
 If you want to invite me to talk please e-mail me.
