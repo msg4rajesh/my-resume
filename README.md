@@ -4,9 +4,9 @@
 
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es
 
-**Blog:** 
-[Azure AI](https://medium.com/@caiomsouza)
-[professorcoruja.com](http://professorcoruja.com/)
+**Blogs:** 
+[https://medium.com/@caiomsouza](https://medium.com/@caiomsouza)
+[http://professorcoruja.com/](http://professorcoruja.com/)
 
 **GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza)
 
