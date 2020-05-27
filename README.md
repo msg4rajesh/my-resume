@@ -17,10 +17,11 @@ Nationality: Brazilian and Spanish.<BR>
 See all my Publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
 
 
+### Complutense University of Madrid (UCM)
 <b>Data and Artificial Intelligence Strategy: A Conceptual Enterprise Big Data Cloud Architecture to Enable Market-Oriented Organisations</b><BR>
 [Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR>
 
-
+### Hitachi Vantara / Pentaho
 <b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
 AutoML can automate a large part of the ML workflow, like training and tuning many models in a specified time. See how AutoML open-source tools and Pentaho together can help customers save time when they create a model and deploy it into production.<BR>
 
