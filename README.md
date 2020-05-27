@@ -5,6 +5,8 @@
 **Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
 **Blogs:** [https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/) <BR>
 **GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza) <BR>
+**Slideshare:** [https://www.slideshare.net/caiomsouza/presentations](https://www.slideshare.net/caiomsouza/presentations) <BR>
+
 
 ### About me
 Father, husband, Senior Cloud Solution Architect, data scientist, consultant, professor, author, AI/ML and Big Data expert. 
