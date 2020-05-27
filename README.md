@@ -4,7 +4,8 @@
 
 
 **Based on** London, UK <BR>
-**Work at** Microsoft, London, UK <BR>
+**Work at** Microsoft, London, UK <BR><BR>
+
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
 **Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
@@ -21,10 +22,12 @@ Nationality: Brazilian and Spanish.<BR>
 ## Publications
 See all my Publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
 
-
 ### Complutense University of Madrid (UCM)
 <b>Data and Artificial Intelligence Strategy: A Conceptual Enterprise Big Data Cloud Architecture to Enable Market-Oriented Organisations</b><BR>
 [Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR>
+
+<b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
+[Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/ICAAI_vFinal_CM_16052020.pdf)<BR>
 
 ### Hitachi Vantara / Pentaho
 <b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
