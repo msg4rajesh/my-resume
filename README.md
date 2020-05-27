@@ -3,7 +3,8 @@
 ![Caio Moreno](https://github.com/caiomsouza/my-resume/blob/master/photos/cmoreno-stonehenge-2019.jpg)
 
 
-**Location:** London, UK <BR>
+**Based on** London, UK <BR>
+**Work at** Microsoft, London, UK <BR>
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
 **Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
