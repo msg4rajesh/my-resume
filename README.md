@@ -19,14 +19,14 @@ See all my Publications at [Google Scholar](https://scholar.google.co.uk/citatio
 <b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
 AutoML can automate a large part of the ML workflow, like training and tuning many models in a specified time. See how AutoML open-source tools and Pentaho together can help customers save time when they create a model and deploy it into production.<BR>
 
-Video: https://www.hitachivantara.com/en-us/video/automated-machine-learning-pentaho.html <BR>
-PDF: https://www.hitachivantara.com/en-us/pdf/presentation/automated-machine-learning-pentaho-presentation.pdf<BR>
+Video: [Link](https://www.hitachivantara.com/en-us/video/automated-machine-learning-pentaho.html)<BR>
+PDF: [Link](https://www.hitachivantara.com/en-us/pdf/presentation/automated-machine-learning-pentaho-presentation.pdf)<BR>
 
 <b>Hands-on Training: Tackling Data Science Challenges with PDI </b><BR>
 Discover how Pentaho streamlines the process of training, tuning, building and testing predictive models. Learn how to use Pentaho Data Integration to prepare data, engineer features, test models and deploy and operationalize your model.<BR>
 
 Video: [Link](https://www.hitachivantara.com/en-us/video/hands-on-training-tackling-data-science-challenges-with-pdi-pentahoworld.html)<BR>
-PDF: [Link](https://www.hitachivantara.com/en-us/pdf/training/tackling-data-science-challenges-with-pdi.pdf)<BR><BR>
+PDF: [Link](https://www.hitachivantara.com/en-us/pdf/training/tackling-data-science-challenges-with-pdi.pdf)<BR>
 
 <b>Network Rail: Predicting the Result of Incidents with Big Data and Data Science<BR></b>
 Network Rail owns and operates the entire rail infrastructure in the UK; their challenge is to keep all the trains running on time and to maximize the services provided by the rail providers that run on its infrastructure.<BR>
