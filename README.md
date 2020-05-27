@@ -24,7 +24,7 @@ See all my Publications at [Google Scholar](https://scholar.google.co.uk/citatio
 
 ### Complutense University of Madrid (UCM)
 <b>Data and Artificial Intelligence Strategy: A Conceptual Enterprise Big Data Cloud Architecture to Enable Market-Oriented Organisations</b><BR>
-[Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR><BR>
+[Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR>
 
 <b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
 [Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/ICAAI_vFinal_CM_16052020.pdf)<BR>
