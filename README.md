@@ -28,7 +28,10 @@ See all my Publications at [Google Scholar](https://scholar.google.co.uk/citatio
 [Paper Link](https://dialnet.unirioja.es/servlet/articulo?codigo=7016832)<BR>
 
 <b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
+ICAAI (International Conference on Automation and Artificial Intelligence) May 21-22, 2020 - London, United Kingdom.
+[Event Link](https://artificialintelligence.annualcongress.com/renowned-speakers.php)
 [Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/ICAAI_vFinal_CM_16052020.pdf)<BR>
+
 
 ### Industry - Hitachi Vantara / Pentaho
 <b>Automated Machine Learning (AutoML) and Pentaho </b><BR>
