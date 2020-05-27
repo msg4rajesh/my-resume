@@ -2,6 +2,7 @@
 **Location:** London, UK <BR>
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
+**Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
 **Blogs:** [https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/) <BR>
 **GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza) <BR>
 
