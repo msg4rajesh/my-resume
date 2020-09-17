@@ -16,9 +16,10 @@
 
 
 ## About me
-Husband, Father, Senior Cloud Solution Architect, data scientist, consultant, professor, author, AI/ML and Big Data expert. 
+Husband, Father, Senior Cloud Solution Architect, Data Scientist, Consultant, University Professor, Book Author, AI/ML and Big Data expert. 
 Fluent in English, Spanish and Portuguese. 
 Nationality: Brazilian and Spanish.<BR>
+Lived in Sao Paulo, Curitiba, Florianopolis and Madrid.<BR>
 
 ## Publications
 See all my publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
