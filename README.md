@@ -18,9 +18,12 @@
 
 
 ## About me
-Husband, Father, Senior Cloud Solution Architect, Data Scientist, Consultant, University Professor, Book Author, AI/ML and Big Data expert. 
-Fluent in English, Spanish and Portuguese. 
-Nationality: Brazilian and Spanish.<BR>
+Husband, Father, Senior Cloud Solution Architect, Data Scientist, Consultant, University Professor, Book Author, AI/ML and Big Data expert. <BR>
+  
+Fluent in English, Spanish and Portuguese. <BR>
+
+Nationality: Brazilian and Spanish.<BR><BR>
+  
 Lived in:
 * Sao Paulo, Sao Paulo, Brasil
 * Curitiba, Parana, Brasil 
@@ -32,7 +35,7 @@ Lived in:
 * London, UK (Current)
 
 ## Publications
-See all my publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
+See all my publications at [My Microsoft Academic](https://academic.microsoft.com/profile/63540697-g758-4fe5-fj12-fj9j45h6j185/CaioMoreno/) or [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) or [My ORCID](https://orcid.org/0000-0002-2431-5432)
 
 ### Academia - Complutense University of Madrid (UCM)
 <b>Data and Artificial Intelligence Strategy: A Conceptual Enterprise Big Data Cloud Architecture to Enable Market-Oriented Organisations</b><BR>
