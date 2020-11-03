@@ -12,7 +12,6 @@
 **Google Scholar:** [My Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) <BR>
 **ORCID:** [My ORCID](https://orcid.org/0000-0002-2431-5432) <BR>  
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
-**Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
 **Blogs:** [https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/) <BR>
 **GitHub:** [https://github.com/caiomsouza](https://github.com/caiomsouza) <BR>
 **Slideshare:** [https://www.slideshare.net/caiomsouza/presentations](https://www.slideshare.net/caiomsouza/presentations) <BR>
