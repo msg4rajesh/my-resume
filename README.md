@@ -21,7 +21,15 @@
 Husband, Father, Senior Cloud Solution Architect, Data Scientist, Consultant, University Professor, Book Author, AI/ML and Big Data expert. 
 Fluent in English, Spanish and Portuguese. 
 Nationality: Brazilian and Spanish.<BR>
-Lived in Sao Paulo, Curitiba, Florianopolis and Madrid.<BR>
+Lived in:
+  *Sao Paulo, Sao Paulo, Brasil<BR>
+  *Curitiba, Parana, Brasil <BR>
+  *Florianopolis, Santa Catarina, Brasil<BR> 
+  *Cacador, Santa Catarina, Brasil<BR>
+  *Imbituba, Santa Catarina, Brasil<BR>
+  *Bombinhas, Santa Catarina, Brasil<BR>
+  *Madrid, Spain<BR>
+  *London, UK (Current)<BR>
 
 ## Publications
 See all my publications at [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao)
