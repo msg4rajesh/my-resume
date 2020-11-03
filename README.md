@@ -31,6 +31,7 @@ Lived in:
 * Cacador, Santa Catarina, Brasil
 * Imbituba, Santa Catarina, Brasil
 * Bombinhas, Santa Catarina, Brasil
+* Vancouver, British Columbia, Canada
 * Madrid, Spain
 * London, UK (Current)
 
