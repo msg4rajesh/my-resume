@@ -4,7 +4,7 @@
 
 
 **Based on** London, UK <BR>
-**Works at** Microsoft, London, UK <BR><BR>
+**Works at** Microsoft, London, UK <BR>
 **PhD Student at** Complutense Univerisity of Madrid, Spain <BR><BR>  
 
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
