@@ -7,7 +7,9 @@
 **Works at** Microsoft, London, UK <BR><BR>
 
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
+**Microsoft Academic:** [My Microsoft Academic](https://academic.microsoft.com/profile/63540697-g758-4fe5-fj12-fj9j45h6j185/CaioMoreno/) <BR>
 **Google Scholar:** [My Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) <BR>
+**ORCID:** [ORCID](https://orcid.org/0000-0002-2431-5432) <BR>  
 **E-mail:** caiomsouza@gmail.com or caiofern@ucm.es <BR>
 **Instagram:** [https://www.instagram.com/caiomorenodesouza/](https://www.instagram.com/caiomorenodesouza/) <BR>
 **Blogs:** [https://medium.com/@caiomsouza](https://medium.com/@caiomsouza) and [http://professorcoruja.com/](http://professorcoruja.com/) <BR>
