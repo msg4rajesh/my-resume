@@ -45,7 +45,7 @@ See all my publications at [My Microsoft Academic](https://academic.microsoft.co
 <b>Data and AI (Artificial Intelligence) Supermarket Architecture</b><BR>
 ICAAI (International Conference on Automation and Artificial Intelligence) May 21-22, 2020 - London, United Kingdom.<BR>
 [Event Link](https://artificialintelligence.annualcongress.com/renowned-speakers.php)<BR>
-[Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/ICAAI_vFinal_CM_16052020.pdf)<BR>
+[Presentation Link](https://github.com/caiomsouza/my-resume/blob/master/publications/academia/conference/icaai2020/ICAAI_vFinal_CM_16052020.pdf)<BR>
 
 <b>Application of Big Data Science techniques for crisis management.</b><BR>
 Complutense University of Madrid<BR>
