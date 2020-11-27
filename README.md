@@ -3,7 +3,7 @@
 ![Caio Moreno](https://github.com/caiomsouza/my-resume/blob/master/photos/cmoreno-stonehenge-2019.jpg)
 
 
-**Based on** London, UK <BR>
+**Based in** London, UK <BR>
 **Works at** Microsoft, London, UK <BR>
 **PhD Student at** Complutense Univerisity of Madrid, Spain <BR><BR>  
 
