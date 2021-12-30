@@ -7,10 +7,10 @@ Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKY
 Brazilian and Spanish citizen and UK resident. <BR>
 **Based in** London, UK, Madrid, Spain and Sao Paulo, Brazil <BR>
 **Works at** Microsoft, London, UK <BR>
-**PhD Candidate at** Complutense Univerisity of Madrid, Spain <BR>
-**Professor at** IT4biz Global <BR>  
-**Former Professor at** EOI (Escuela de Organización Industrial) - Madrid, Spain <BR>  
-**Former Professor at** UNIOESTE (The State University of Western Paraná or Universidade Estatual do Oeste do Parana) - Cascavel, Brazil <BR><BR>    
+**PhD Candidate at** Complutense Univerisity of Madrid, Spain** <BR>
+**Professor at** IT4biz Global** <BR>  
+**Former Professor at** EOI (Escuela de Organización Industrial) - Madrid, Spain **<BR>  
+**Former Professor at** UNIOESTE (The State University of Western Paraná or Universidade Estatual do Oeste do Parana) - Cascavel, Brazil **<BR><BR>    
 
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
 **TikTok:** [https://www.tiktok.com/@professorcaiomoreno](https://www.tiktok.com/@professorcaiomoreno) <BR>
