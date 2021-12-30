@@ -4,8 +4,8 @@
 
 Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKYjFoGQA) out.
 
-[Buy my courses online:](https://it4biz.teachable.com/courses)
-[Buy my books online:](https://www.amazon.co.uk/kindle-dbs/entity/author/B00J2HCVMC?_encoding=UTF8&node=266239&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader)
+[Buy my courses online:](https://it4biz.teachable.com/courses) <BR>
+[Buy my books online:](https://www.amazon.co.uk/kindle-dbs/entity/author/B00J2HCVMC?_encoding=UTF8&node=266239&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader)<BR><BR>
 
 Brazilian and Spanish citizen and UK resident. <BR>
 **Based in** London, UK, Madrid, Spain and Sao Paulo, Brazil <BR>
