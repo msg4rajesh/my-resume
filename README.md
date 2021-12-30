@@ -73,6 +73,9 @@ All my Hitachi Vantara / Pentaho publications can be found at [Hitachi Vantara R
 
 ## Honors & Awards
 - **Best Student / Matrícula de Honor** - Complutense Univeristy of Madrid - 2016
-
+  
+## Podcasts
+[ 009 – Interview com Caio Moreno de Souza (professor Coruja) – Arquiteto Senior de Soluções em Nuvem na Microsoft e Founder da IT4biz ](https://osbicast.com/2020/06/01/009-interview-com-caio-moreno-de-souza-professor-coruja-arquiteto-senior-de-solucoes-em-nuvem-na-microsoft-e-founder-da-it4biz/)
+  
 ## Talks
-If you want to invite me to give a talk please e-mail me.
+If you want to invite me to give a talk please e-mail me caiomsouza at gmail dot com
