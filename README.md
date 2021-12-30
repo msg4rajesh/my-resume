@@ -6,9 +6,11 @@ Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKY
 
 **Based in** London, UK <BR>
 **Works at** Microsoft, London, UK <BR>
-**PhD Student at** Complutense Univerisity of Madrid, Spain <BR><BR>
+**PhD Candidate at** Complutense Univerisity of Madrid, Spain <BR><BR>
 
 **LinkedIn:** [https://www.linkedin.com/in/caiomsouza/](https://www.linkedin.com/in/caiomsouza/) <BR>
+**TikTok:** [TikTok](https://www.tiktok.com/@professorcaiomoreno) <BR>
+**Instagram:** [Instagram](https://www.instagram.com/professorcaiomorenooficial/) <BR>  
 **Microsoft Academic:** [My Microsoft Academic](https://academic.microsoft.com/profile/63540697-g758-4fe5-fj12-fj9j45h6j185/CaioMoreno/) <BR>
 **Google Scholar:** [My Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) <BR>
 **ORCID:** [My ORCID](https://orcid.org/0000-0002-2431-5432) <BR>  
