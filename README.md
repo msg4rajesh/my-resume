@@ -41,9 +41,9 @@ Lived in:
 * Imbituba, Santa Catarina, Brasil (2004)
 * Bombinhas, Santa Catarina, Brasil (2004 and 2005)
 * Vancouver, British Columbia, Canada (2005)
-* Madrid, Spain (From 2015 to present)
+* Madrid, Spain (From 2015 to present and I traveled many years to visit family)
 * London, UK (From 2018 to present)
-* Sao Paulo, Brasil (From 1983 to present)  
+* Sao Paulo, Brasil (From birth to present)  
 
 ## Publications
 See all my publications at [My Microsoft Academic](https://academic.microsoft.com/profile/63540697-g758-4fe5-fj12-fj9j45h6j185/CaioMoreno/) or [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) or [My ORCID](https://orcid.org/0000-0002-2431-5432)
