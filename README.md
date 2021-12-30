@@ -41,7 +41,7 @@ Lived in:
 * Imbituba, Santa Catarina, Brasil (2004)
 * Bombinhas, Santa Catarina, Brasil (2004 and 2005)
 * Vancouver, British Columbia, Canada (2005)
-* Madrid, Spain (From 2015 to present and I traveled many years to visit family)
+* Madrid, Spain (From 2015 to present and I travelled many years to visit family)
 * London, UK (From 2018 to present)
 * Sao Paulo, Brasil (From birth to present)  
 
