@@ -4,7 +4,7 @@
 
 Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKYjFoGQA) out.
 
-Brazilian and Spanish citizen and UK resident.
+Brazilian and Spanish citizen and UK resident. <BR>
 **Based in** London, UK <BR>
 **Works at** Microsoft, London, UK <BR>
 **PhD Candidate at** Complutense Univerisity of Madrid, Spain <BR><BR>
@@ -78,13 +78,13 @@ All my Hitachi Vantara / Pentaho publications can be found at [Hitachi Vantara R
 - **Best Student / Matrícula de Honor** - Complutense Univeristy of Madrid - 2016
   
 ## Podcasts
-01-06-2020 - Portuguese 
+01-06-2020 - Portuguese <BR>
 [ 009 – Interview com Caio Moreno de Souza (professor Coruja) – Arquiteto Senior de Soluções em Nuvem na Microsoft e Founder da IT4biz ](https://osbicast.com/2020/06/01/009-interview-com-caio-moreno-de-souza-professor-coruja-arquiteto-senior-de-solucoes-em-nuvem-na-microsoft-e-founder-da-it4biz/)
 
-31-03-2021 - English  
+31-03-2021 - English  <BR>
 [Building Real-Time Data Pipelines with Microsoft Azure, Databricks, and Confluent ](https://developer.confluent.io/podcast/building-real-time-data-pipelines-with-microsoft-azure-databricks-and-confluent)
   
-18-10-2021 - Spanish  
+18-10-2021 - Spanish  <BR>
 [#16 Caio Moreno | Ciencia de Datos en Microsoft](https://anchor.fm/importcoffee/episodes/16-Caio-Moreno--Ciencia-de-Datos-en-Microsoft-e18tahk)
     
 ## Talks
