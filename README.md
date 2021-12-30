@@ -31,15 +31,15 @@ Fluent in English, Spanish and Portuguese. <BR>
 Nationality: Brazilian and Spanish.<BR><BR>
   
 Lived in:
-* Sao Paulo, Sao Paulo, Brasil
-* Curitiba, Parana, Brasil 
-* Florianopolis, Santa Catarina, Brasil
-* Cacador, Santa Catarina, Brasil
-* Imbituba, Santa Catarina, Brasil
-* Bombinhas, Santa Catarina, Brasil
-* Vancouver, British Columbia, Canada
-* Madrid, Spain
-* London, UK (Current)
+* Curitiba, Parana, Brasil (From 2008 to 2010)
+* Florianopolis, Santa Catarina, Brasil (2003 to 2004)
+* Cacador, Santa Catarina, Brasil (2003)
+* Imbituba, Santa Catarina, Brasil (2004)
+* Bombinhas, Santa Catarina, Brasil (2004 and 2005)
+* Vancouver, British Columbia, Canada (2005)
+* Madrid, Spain (From 2015 to present)
+* London, UK (From 2018 to present)
+* Sao Paulo, Brasil (From 1983 to present)  
 
 ## Publications
 See all my publications at [My Microsoft Academic](https://academic.microsoft.com/profile/63540697-g758-4fe5-fj12-fj9j45h6j185/CaioMoreno/) or [Google Scholar](https://scholar.google.co.uk/citations?user=B9uHSyEAAAAJ&hl=en&oi=ao) or [My ORCID](https://orcid.org/0000-0002-2431-5432)
