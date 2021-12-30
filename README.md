@@ -5,7 +5,7 @@
 Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKYjFoGQA) out.
 
 Brazilian and Spanish citizen and UK resident. <BR>
-**Based in** London, UK <BR>
+**Based in** London, UK, Madrid, Spain and Sao Paulo, Brazil <BR>
 **Works at** Microsoft, London, UK <BR>
 **PhD Candidate at** Complutense Univerisity of Madrid, Spain <BR><BR>
 
