@@ -77,5 +77,9 @@ All my Hitachi Vantara / Pentaho publications can be found at [Hitachi Vantara R
 ## Podcasts
 [ 009 – Interview com Caio Moreno de Souza (professor Coruja) – Arquiteto Senior de Soluções em Nuvem na Microsoft e Founder da IT4biz ](https://osbicast.com/2020/06/01/009-interview-com-caio-moreno-de-souza-professor-coruja-arquiteto-senior-de-solucoes-em-nuvem-na-microsoft-e-founder-da-it4biz/)
   
+[Building Real-Time Data Pipelines with Microsoft Azure, Databricks, and Confluent ](https://developer.confluent.io/podcast/building-real-time-data-pipelines-with-microsoft-azure-databricks-and-confluent)
+  
+[#16 Caio Moreno | Ciencia de Datos en Microsoft](https://anchor.fm/importcoffee/episodes/16-Caio-Moreno--Ciencia-de-Datos-en-Microsoft-e18tahk)
+    
 ## Talks
 If you want to invite me to give a talk please e-mail me caiomsouza at gmail dot com
