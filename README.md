@@ -4,6 +4,7 @@ I am also known as Caio Fernandes Moreno (Spain), Caio Moreno de Souza (Brazil) 
 
 ![Caio Moreno](https://github.com/caiomsouza/my-resume/blob/master/photos/cmoreno-stonehenge-2019.jpg)
 ![Caio Moreno](https://github.com/caiomsouza/my-resume/blob/master/photos/cmoreno-hiking-scafell-pike-england-2019.jpg)
+![Caio Moreno](https://github.com/caiomsouza/my-resume/blob/master/photos/cmoreno-seattle.jpg)
 
 Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKYjFoGQA) out.
 
