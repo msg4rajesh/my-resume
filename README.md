@@ -1,4 +1,6 @@
-## Caio Moreno or Caio Fernandes Moreno (Spain) or Caio Moreno de Souza (Brazil)
+## Caio Moreno
+
+I am also known by Caio Fernandes Moreno (Spain) or Caio Moreno de Souza (Brazil).
 
 ![Caio Moreno](https://github.com/caiomsouza/my-resume/blob/master/photos/cmoreno-stonehenge-2019.jpg)
 
