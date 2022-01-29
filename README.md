@@ -8,10 +8,10 @@ Do you want to offer me a job? Please, fill [this](https://forms.gle/qYprDbGsMKY
 [Buy my books online:](https://www.amazon.co.uk/kindle-dbs/entity/author/B00J2HCVMC?_encoding=UTF8&node=266239&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader)<BR><BR>
 
 Brazilian and Spanish citizen and UK resident. <BR>
-I love food and cooking. My favoruite foods are: [Brazilian Barbecue with Picanha, Maminha, Linguica and Alcatra of course](https://www.greatbritishfoodawards.com/recipes/the-perfect-picanha-steak) and Paella.<BR>   
+I love food and cooking. My Favorite Foods are: [Brazilian Barbecue with Picanha, Maminha, Linguica and Alcatra of course](https://www.greatbritishfoodawards.com/recipes/the-perfect-picanha-steak) and Paella.<BR>   
   
-**Based in** Northwood, London, UK and some days in Spain and Brazil <BR>
-**Works at** Microsoft, London, UK <BR>
+**Based in** Northwood, London, UK and some days in Spain and Brazil. <BR>
+**Works at** Microsoft, London, UK. <BR>
 **PhD Candidate at** Complutense Univerisity of Madrid, Spain <BR>
 **Professor at** [IT4biz Global](http://www.it4bizglobal.com)<BR>
 **Former Professor at** [EOI (Escuela de Organización Industrial) - Madrid, Spain](https://www.eoi.es/)<BR>
