@@ -13,7 +13,7 @@ Brazilian and Spanish citizen and UK resident. <BR>
 I love food and cooking. My Favorite Foods are: [Brazilian Barbecue with Picanha, Maminha, Linguica and Alcatra of course](https://www.greatbritishfoodawards.com/recipes/the-perfect-picanha-steak), Paella, Lasagna, Sushi and Feijoada.<BR>   
   
 **Based in** Northwood, London, UK and some days in Spain and Brazil. <BR>
-**Works at** Microsoft, London, UK. <BR>
+**Works at** Microsoft, London and Reading, UK. <BR>
 **PhD Candidate at** Complutense Univerisity of Madrid, Spain <BR>
 **Professor at** [IT4biz Global](http://www.it4bizglobal.com)<BR>
 **Former Professor at** [EOI (Escuela de Organización Industrial) - Madrid, Spain](https://www.eoi.es/)<BR>
